@@ -1,0 +1,6 @@
+opencv-python>=4.5.3
+opencv-python-headless>=4.5.3
+paddleocr>=2.6.1
+mysql-connector-python>=8.0.33
+ultralytics>=8.0.40
+openpyxl>=3.0.10
